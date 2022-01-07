@@ -11,6 +11,11 @@
             <checksum>https://raw.githubusercontent.com/typhoon51280/typhoon51280.github.io/matrix/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/typhoon51280/typhoon51280.github.io/matrix/zips/</datadir>
         </dir>
+        <dir minversion="19.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/typhoon51280/typhoon51280.github.io/nexus/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/typhoon51280/typhoon51280.github.io/nexus/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/typhoon51280/typhoon51280.github.io/nexus/zips/</datadir>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Typhoon51280 Kodi Repository</summary>
